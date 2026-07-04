@@ -25,13 +25,3 @@ A simple password generator written in Python.
 python password_generator.py
 ```
 
-## Future Improvements
-
-- GUI version
-- Password strength checker
-- Copy password to clipboard
-- Save generated passwords
-
----
-
-Made as part of my **1% Training Arc**.
